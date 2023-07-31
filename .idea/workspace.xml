@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79232318-d40a-421a-b70c-c99cf5a233f5" name="Changes" comment="Understanding State" />
+    <list default="true" id="79232318-d40a-421a-b70c-c99cf5a233f5" name="Changes" comment="setState part Three" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +71,7 @@
       <workItem from="1690300619881" duration="1839000" />
       <workItem from="1690446718828" duration="115000" />
       <workItem from="1690469663652" duration="1477000" />
+      <workItem from="1690567412615" duration="3305000" />
     </task>
     <task id="LOCAL-00001" summary="Before React">
       <created>1690038985398</created>
@@ -121,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690470546755</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="setState part Two">
+      <created>1690568228076</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690568228076</updated>
+    </task>
+    <task id="LOCAL-00009" summary="setState part Three">
+      <created>1690725387494</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690725387494</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +161,8 @@
     <MESSAGE value="fix: JSX Button Element" />
     <MESSAGE value="JSX Part Two" />
     <MESSAGE value="Understanding State" />
-    <option name="LAST_COMMIT_MESSAGE" value="Understanding State" />
+    <MESSAGE value="setState part Two" />
+    <MESSAGE value="setState part Three" />
+    <option name="LAST_COMMIT_MESSAGE" value="setState part Three" />
   </component>
 </project>
