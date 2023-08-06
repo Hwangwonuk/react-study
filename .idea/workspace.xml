@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79232318-d40a-421a-b70c-c99cf5a233f5" name="Changes" comment="State Practice part One">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/example/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="79232318-d40a-421a-b70c-c99cf5a233f5" name="Changes" comment="State Practice part Two" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +73,7 @@
       <workItem from="1690446718828" duration="115000" />
       <workItem from="1690469663652" duration="1477000" />
       <workItem from="1690567412615" duration="3305000" />
-      <workItem from="1691078995192" duration="670000" />
+      <workItem from="1691078995192" duration="1432000" />
     </task>
     <task id="LOCAL-00001" summary="Before React">
       <created>1690038985398</created>
@@ -157,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690933848491</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="State Practice part Two">
+      <created>1691079831133</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691079831133</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +188,7 @@
     <MESSAGE value="setState part Three" />
     <MESSAGE value="Inputs and State" />
     <MESSAGE value="State Practice part One" />
-    <option name="LAST_COMMIT_MESSAGE" value="State Practice part One" />
+    <MESSAGE value="State Practice part Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="State Practice part Two" />
   </component>
 </project>
